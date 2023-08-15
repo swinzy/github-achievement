@@ -15,14 +15,14 @@ Prerequisite:
 
 ### Install Flask[^2]
 #### Create Virtual Environment
-**Linux**:<br>
+**Linux**:
 Under `/lbp-booking/lbp-booking`, execute:
 ```
 $ python -m venv .venv
 $ . .venv/bin/activate
 ```
 
-**Windows**:<br>
+**Windows**:
 Under `\lbp-booking\lbp-booking`, execute:
 ```
 > py -3 -m venv .venv
@@ -30,6 +30,13 @@ Under `\lbp-booking\lbp-booking`, execute:
 ```
 
 #### Use Freeze to Install Shared Dependencies[^3]
+**¡Make sure your virtual environment in activated!**
+PS: Check if `(.venv)` is displayed before your prompt
+
+**Linux**:
+`./install_req.sh`
+
+**Windows**:
 `pip install -r requirements.txt`
 
 [^1]: [Next.js getting started documentation](https://nextjs.org/docs/getting-started/installation)
