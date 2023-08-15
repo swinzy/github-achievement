@@ -7,10 +7,11 @@ Prerequisite:
 - Flask >= 2.3.2
 
 ### Install Node.js
-**Windows**: <br>
-Download from <a href="https://nodejs.org/en">official website</a> or winget (`winget install OpenJS.NodeJS.LTS`)
 **Linux**: <br>
 Install package `nodejs`
+
+**Windows**: <br>
+Download from <a href="https://nodejs.org/en">official website</a> or winget (`winget install OpenJS.NodeJS.LTS`)
 
 ### Install React/Next.js[^1]
 `npm install next@latest react@latest react-dom@latest`
