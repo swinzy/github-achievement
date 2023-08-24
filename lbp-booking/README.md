@@ -28,7 +28,7 @@ npm install
 npm install mongodb express cors dotenv
 ```
 
-### Test the Project
+## Testing
 ```
 npm start run
 ```
@@ -48,10 +48,8 @@ webpack compiled successfully
 ```
 At the same time, your default browser should launch and navigate to `http://localhost:3000/`, if not, you may manually launch a browser at your choice and navigate to `http://localhost:3000/`. You should be able to see a webpage now.
 
-### Troubleshoot
-```
-'react-scripts' is not recognized as an internal or external command
-```
+## Troubleshoot
+### `'react-scripts' is not recognized as an internal or external command`
 Your node modules are not installed correctly, please ensure you are in the project directory, not the root of the repository, and re-excute section `4. Install React dependencies automatically` from above.
 
 For any other questions, please post a thread in Microsoft Teams under `Discussion` tab.<br>
