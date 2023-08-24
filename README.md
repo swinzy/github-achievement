@@ -1,5 +1,5 @@
-# Long Beach Place Website Booking System
-This is the main branch for Long Beach Place website booking system.<br>
+# Long Beach Place Website Booking System [Development]
+This is the development branch for Long Beach Place website booking system.<br>
 
 ## Repository Structure
 ```
