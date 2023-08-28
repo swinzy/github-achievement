@@ -1,14 +1,13 @@
 # Template for MERN Stack Development Environment[^1]
 This is the template branch for Long Beach Place website development envinronment using MERN stack<br>
 
-> [!IMPORTANT]
-> **Prerequisites**<br>
-> Node.js >= 18.16-LTS
-
 > [!NOTE]
 > This documentation is written by Stephen Zhang<br>
 > Please report any bug on Slack `@Stephen Zhang` or [contact by email](mailto://stephen.zhang1@student.unimelb.edu.au)
 
+> [!IMPORTANT]
+> **Prerequisites**<br>
+> Node.js >= 18.16-LTS
 
 ## Repository Structure (Non-exhaustive)
 ```
