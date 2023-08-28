@@ -39,7 +39,10 @@ Install package `nodejs`
 Download from <a href="https://nodejs.org/en">official website</a><br>
 
 **Linux user but on Windows for some reason**: <br>
-`winget install OpenJS.NodeJS.LTS`<br>*(Only works on Windows Package Manager enabled devices)*
+```
+winget install OpenJS.NodeJS.LTS`<br>
+```
+*(Only works on Windows Package Manager enabled devices)*
 
 ## To Create a New Project[^2]
 ### Create Front-end Application
