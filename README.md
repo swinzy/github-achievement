@@ -26,7 +26,6 @@ This is the template branch for Long Beach Place website development envinronmen
 ```
 
 ## Table of Content
-- [Repository Structure (Non-exhaustive)](#repository-structure-non-exhaustive)
 - [Install Node.js](#install-nodejs)
 - [To Create a New Project](#to-create-a-new-project2)
 - [To Set up for an Existing Project](#to-set-up-for-an-existing-project)
