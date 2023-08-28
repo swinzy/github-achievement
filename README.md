@@ -40,7 +40,7 @@ Download from <a href="https://nodejs.org/en">official website</a><br>
 
 **Linux user but on Windows for some reason**: <br>
 ```
-winget install OpenJS.NodeJS.LTS`<br>
+winget install OpenJS.NodeJS.LTS
 ```
 *(Only works on Windows Package Manager enabled devices)*
 
